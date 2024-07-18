@@ -1,0 +1,20 @@
+export const items = [
+    "HTML",
+    "CSS",
+    "Javascript",
+    "React",
+    "Vue",
+    "Express",
+    "Node",
+    "MongoDB",
+    "Python",
+    "Java",
+    "Golang",
+    "Rust",
+    "C#",
+    "C++",
+    "PHP",
+    "Angular",
+    "Next",
+    "Nuxt"
+]
